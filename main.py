@@ -28,7 +28,7 @@ from pyrogram.raw import functions, types
 
 CHAT=Config.CHAT
 bot = Client(
-    "SophiaXMusic",
+    "Musicplayer",
     Config.API_ID,
     Config.API_HASH,
     bot_token=Config.BOT_TOKEN,
